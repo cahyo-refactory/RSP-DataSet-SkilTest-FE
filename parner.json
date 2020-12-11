@@ -1,0 +1,17 @@
+{
+    "data": [{
+        "id":1,
+        "photo_url": "http://via.placeholder.com/100x100",
+        "name":"partner_name"
+    },
+    {
+        "id":2,
+        "photo_url": "http://via.placeholder.com/100x100",
+        "name":"partner_name"
+    },
+    {
+        "id":3,
+        "photo_url": "http://via.placeholder.com/100x100",
+        "name":"partner_name"
+    }]
+}
