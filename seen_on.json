@@ -1,0 +1,17 @@
+{
+    "data": [{
+        "id":1,
+        "photo_url": "http://via.placeholder.com/150x100",
+        "name":"nama meliput"
+    },
+    {
+        "id":2,
+        "photo_url": "http://via.placeholder.com/150x100",
+        "name":"nama meliput"
+    },
+    {
+        "id":3,
+        "photo_url": "http://via.placeholder.com/150x100",
+        "name":"nama meliput"
+    }]
+}
